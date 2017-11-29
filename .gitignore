@@ -1,0 +1,6 @@
+#ignore log files
+*.log
+#ignore build files
+build/
+#ignore installed node modules
+node_modules/
